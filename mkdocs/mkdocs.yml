@@ -11,7 +11,7 @@ theme:
     locale: fr
     logo: rsrc/logo.png
 
-site_dir: ../www
+site_dir: ../docs
 
 #extra:
 
