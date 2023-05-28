@@ -8,7 +8,7 @@ MKDIR    := mkdocs
 help:
 	@echo "======================================================="
 	@echo "           Choeur d'ailleurs"
-	@echo "This Makefile is intended to generate the documentation"
+	@echo "This Makefile is intended to generate the web site"
 	@echo "======================================================="
 	@echo "Available targets are:"
 	@echo "  install  : install the required components"
