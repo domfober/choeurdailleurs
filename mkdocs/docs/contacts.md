@@ -2,20 +2,26 @@
 
 |   |   |
 |---|---|
-| Cochat Jean-Claude 		| [cochat.jean-claude@orange.fr](mailto:cochat.jean-claude@orange.fr) | 
-| Isabelle ALEXANDRE 		| [zab.dreizehn@orange.fr](mailto:zab.dreizehn@orange.fr) | 
-| Jean-Michel BROUILLARD 	| [jmbrouillard@orange.fr](mailto:jmbrouillard@orange.fr) | 
-| Marie-Pierre CANARD 		| [mpcanard@orange.fr](mailto:mpcanard@orange.fr) | 
-| Cécile Lemaître 			| [cecile.lemaitre74@gmail.com](mailto:cecile.lemaitre74@gmail.com) | 
-| Patricia Duvert 			| [patduvert@hotmail.fr](mailto:patduvert@hotmail.fr) | 
 | Camille TRUFFA 			| [camille.truffa@gmail.com](mailto:camille.truffa@gmail.com) | 
-| Jo 						| [jsphlemaitre@gmail.com](mailto:jsphlemaitre@gmail.com) | 
+| Cécile LEMAITRE 			| [cecile.lemaitre74@gmail.com](mailto:cecile.lemaitre74@gmail.com) | 
+| Dominique FOBER 			| [dfober@gmail.com](mailto:dfober@gmail.com) | 
+| Fabienne RUFINO 			| [rufino.f@hotmail.fr](mailto:rufino.f@hotmail.fr) | 
 | Femie PASMAN QUERITE 		| [Femie@querite.com](mailto:Femie@querite.com) | 
-| Myriam DECLERCQ 			| [myriam54declercq@gmail.com](mailto:myriam54declercq@gmail.com) | 
-| Dominique Fober 			| [dfober@gmail.com](mailto:dfober@gmail.com) | 
+| Isabelle ALEXANDRE 		| [zab.dreizehn@orange.fr](mailto:zab.dreizehn@orange.fr) | 
+| Jean-Claude COCHAT  		| [cochat.jean-claude@orange.fr](mailto:cochat.jean-claude@orange.fr) | 
+| Jean-Michel BROUILLARD 	| [jmbrouillard@orange.fr](mailto:jmbrouillard@orange.fr) | 
+| Joseph LEMAITRE 			| [jsphlemaitre@gmail.com](mailto:jsphlemaitre@gmail.com) | 
 | Marie-Line PAYET-TAILLE 	| [mlpayett@orange.fr](mailto:mlpayett@orange.fr) | 
-| Marion Ravussin 			| [marion.ravussin@gmail.com](mailto:marion.ravussin@gmail.com) | 
-| Fabienne Rufino 			| [rufino.f@hotmail.fr](mailto:rufino.f@hotmail.fr) | 
+| Marie-Pierre CANARD 		| [mpcanard@orange.fr](mailto:mpcanard@orange.fr) | 
+| Marion RAVUSSIN 			| [marion.ravussin@gmail.com](mailto:marion.ravussin@gmail.com) | 
+| Myriam DECLERCQ 			| [myriam54declercq@gmail.com](mailto:myriam54declercq@gmail.com) | 
+| Patricia DUVERT 			| [patduvert@hotmail.fr](mailto:patduvert@hotmail.fr) | 
+
+-----
+
+[Télécharger](rsrc/Coordonnées Choeur d'Ailleurs sept 2022.pdf) les coordonnées au format pdf.
+
+-----
 
 ## Lieu principal de répétition 
 

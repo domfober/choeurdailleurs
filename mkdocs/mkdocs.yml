@@ -25,4 +25,4 @@ plugins:
 #  - '/BNF/railroad-diagrams/railroad-diagrams.js'
 
 extra_css:
-   - '/style.css'
+   - 'style.css'
