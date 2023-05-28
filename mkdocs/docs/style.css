@@ -1,0 +1,13 @@
+
+h1 {
+	color : darkblue;
+}
+
+h2 {
+	color : blue;
+}
+
+img {
+	border: 0px !important;
+	border-radius: 12px !important;
+}
