@@ -1,11 +1,8 @@
 # Documents
 
-Ici on peut mettre les documents de travail :
+## Matériel de travail
 
-- par exemple les structures
-- et tout autre document utile
-
-Et également un lien vers le drive en ligne
+- Téléchargeable [ici](https://www.dropbox.com/sh/8hd5yh2d5q537wo/AACmpZoujl_s2OBpwUhudSSAa?dl=0)
 
 ## Autres ressources
 
