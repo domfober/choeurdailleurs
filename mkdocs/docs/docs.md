@@ -3,6 +3,7 @@
 ## Matériel de travail
 
 - Accessible [ici](https://www.dropbox.com/sh/8hd5yh2d5q537wo/AACmpZoujl_s2OBpwUhudSSAa?dl=0)
+- [Structure et répartition des voix](https://www.dropbox.com/s/36xda4f5ponak9e/2023-03-Structures%20et%20r%C3%A9partition%20des%20voix.pdf?dl=0) (dernière version)
 
 ## Autres ressources
 
