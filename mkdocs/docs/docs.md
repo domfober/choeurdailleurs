@@ -2,7 +2,7 @@
 
 ## Matériel de travail
 
-- Téléchargeable [ici](https://www.dropbox.com/sh/8hd5yh2d5q537wo/AACmpZoujl_s2OBpwUhudSSAa?dl=0)
+- Accessible [ici](https://www.dropbox.com/sh/8hd5yh2d5q537wo/AACmpZoujl_s2OBpwUhudSSAa?dl=0)
 
 ## Autres ressources
 
