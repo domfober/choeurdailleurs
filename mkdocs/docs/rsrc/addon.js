@@ -45,8 +45,10 @@ function createmodal () {
 }
 
 var emails = "camille.truffa@gmail.com, cecile.lemaitre74@gmail.com, dfober@gmail.com, rufino.f@hotmail.fr, Femie@querite.com, zab.dreizehn@orange.fr, cochat.jean-claude@orange.fr, jmbrouillard@orange.fr, jsphlemaitre@gmail.com, mlpayett@orange.fr, mpcanard@orange.fr, marion.ravussin@gmail.com, myriam54declercq@gmail.com, patduvert@hotmail.fr";
-function toClip() {
+function toClip(button) {
 	navigator.clipboard.writeText(emails);
+    button.style.background = "lightgreen";
+    setTimeout(function() {document.getElementById("TOCLIP").style.background = "#86d3ff"; }, 800); 
 }
 
 createmodal();

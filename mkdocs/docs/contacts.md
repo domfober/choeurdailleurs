@@ -20,7 +20,7 @@
 -----
 
 [Télécharger](rsrc/Coord. choeur d'ailleurs-sept 2022.pdf) les coordonnées au format pdf.
-<button onclick="toClip()">Copier dans le presse papier</button>
+<button id="TOCLIP" role="button" onclick="toClip(this)">Copier dans le presse papier</button>
 
 -----
 
