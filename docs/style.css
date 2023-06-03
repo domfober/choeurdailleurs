@@ -1,6 +1,6 @@
 
 h1 {
-	color : darkblue;
+	color : blueviolet;
 }
 
 h2 {
@@ -25,6 +25,12 @@ img {
 	100% {
 	  margin-left: 0rem;
 	}
+}
+
+button {
+	border-radius: 8px;
+	font-size: 0.8em;
+	background-color: #86d3ff;
 }
   
 .modal { 
