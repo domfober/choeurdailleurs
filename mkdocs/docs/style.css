@@ -11,3 +11,50 @@ img {
 	border: 0px !important;
 	border-radius: 12px !important;
 }
+
+@keyframes shake {
+	0% {
+	  margin-left: 0rem;
+	}
+	25% {
+	  margin-left: 0.5rem;
+	}
+	75% {
+	  margin-left: -0.5rem;
+	}
+	100% {
+	  margin-left: 0rem;
+	}
+}
+  
+.modal { 
+	position: fixed;
+    background-color: rgb(228, 225, 225);
+    border-style: solid;
+    border-width: 2px; 
+    border-radius: 10px;
+	top: 20%;
+	left: 25%;
+    width: 50%;
+    height: 20%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 1rem;
+	visibility: hidden;
+}
+
+.invalid {
+	animation: shake 0.2s ease-in-out 0s 2;
+	border-color: "red";
+}
+
+.cover {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+    height: 100%;
+    background-color: black;
+	visibility: hidden;
+}

@@ -31,15 +31,13 @@ serve:
 ####################################################################
 install:
 	$(PIP) install mkdocs[i18n]
-	$(PIP) install mkdocs-encryptcontent-plugin
 	$(PIP) install mkdocs-material
 
 upgrade:
 	$(PIP) install mkdocs --upgrade
-	$(PIP) install mkdocs-encryptcontent-plugin --upgrade
 	$(PIP) install mkdocs-material --upgrade
 
 uninstall:
 	$(PIP) uninstall -y mkdocs
-	$(PIP) uninstall mkdocs-encryptcontent-plugin
+#s	$(PIP) uninstall mkdocs-encryptcontent-plugin
 	$(PIP) uninstall mkdocs-material
