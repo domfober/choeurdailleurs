@@ -19,7 +19,7 @@
 
 -----
 
-[Télécharger](rsrc/Coordonnées Choeur d'Ailleurs sept 2022.pdf) les coordonnées au format pdf.
+[Télécharger](rsrc/Coord. choeur d'ailleurs-sept 2022.pdf) les coordonnées au format pdf.
 
 -----
 
