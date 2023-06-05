@@ -8,7 +8,7 @@
 ## Autres ressources
 
 - [Pourquoi aimons nous chanter](https://www.radiofrance.fr/francemusique/pourquoi-aimons-nous-chanter-5189130)
-- [Fatigue vocale](http://www.camille-et-nous.com/priest/Fatigue-vocale-.pdf)
+- [Fatigue vocale](rsrc/Fatigue-vocale-.pdf)
 - [Les bubulles](https://www.youtube.com/watch?v=T_8McMl2ZPM)
 - [Chant Voix et Coprs](https://www.chantvoixetcorps.com/category-blog/videos/)
 - [Georgette Vox - Cours de chant en ligne](https://georgettevox.fr/le-blog/)
