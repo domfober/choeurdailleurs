@@ -1,12 +1,25 @@
 # Calendrier
 
-<iframe width="800" height="1000" src="https://framagenda.org/apps/calendar/embed/DCy2pFPM5dX5tLx4"></iframe>
+<iframe width="800" height="900" src="https://framagenda.org/apps/calendar/embed/DCy2pFPM5dX5tLx4"></iframe>
 
 ------
 
 ## Calendrier des répétitions avec Camille
 
-### Saison 2022 - 2023
+### Saison 2023 - 2024
+
+- 2 octobre
+- 16 octobre
+- 20 novembre
+- 11 décembre
+- 15 janvier
+- 5 février
+- 4 mars
+- 8 avril
+- 13 mai
+- 10 juin
+
+#### Saison 2022 - 2023
 
 - 19 septembre
 - 10 octobre
