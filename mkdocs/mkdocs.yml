@@ -4,7 +4,6 @@ site_description: Chants du monde.
 nav:
     - Calendrier: cal.md
     - Documents: docs.md
-    - Photos: photos.md
     - Contacts: contacts.md
 
 theme: 
