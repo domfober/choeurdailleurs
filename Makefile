@@ -1,6 +1,7 @@
 
 MAKE 	?= make
 PIP		?= pip3
+PORT    ?= 8080
 
 MKDIR    := mkdocs
 
@@ -24,7 +25,7 @@ build:
 	git checkout docs/CNAME
 
 serve:
-	cd $(MKDIR) && mkdocs serve
+	cd $(MKDIR) && mkdocs serve -a 127.0.0.1:$(PORT)
 	git checkout docs/CNAME
 	
 

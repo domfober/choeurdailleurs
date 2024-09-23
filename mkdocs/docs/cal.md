@@ -40,6 +40,9 @@ h4::after {
     margin-left: 20px;
 }
 
+.barre {
+	text-decoration: line-through;
+}
 
 </style>
 <script>
@@ -58,7 +61,8 @@ h4::after {
 
 - 21/22 septembre (Stage à Vassieux en Vercors)
 - 7 octobre
-- 18 novembre
+- 4 novembre
+- <span class=barre>18 novembre</span>
 - 2 décembre
 - 20 janvier
 - 3 février
