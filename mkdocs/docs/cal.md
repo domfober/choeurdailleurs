@@ -57,7 +57,19 @@ h4::after {
 
 ## Calendrier des répétitions avec Camille
 
-### Saison 2024 - 2025
+### Saison 2025 - 2026
+
+-  03, 04 et 05 octobre : stage au Ménil (88)
+- 3 novembre
+- 15 décembre
+- 19 janvier
+- 23 février
+- 23 mars 
+- 20 avril
+- 4 mai 
+- 8 juin
+
+#### Saison 2024 - 2025
 
 - 21/22 septembre (Stage à Vassieux en Vercors)
 - 7 octobre
